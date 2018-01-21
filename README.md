@@ -1,9 +1,6 @@
-# 2.Basic-Data-Trawling
-We were tasked to mine data for information and trends
+# 2.Data-Trawling
+It was only a decade or two ago that people thought joggers were eccentric health nuts. I believe meditation holds the same stigma. Thus, I truly believe that meditation will be the "next jogging" in that it will become one of the basic requirements for a healthy life. 
 
-STATED GOAL FOR PROJECT
-We want to find out which groups at what ages are at most risk for which unnatural causes (e.g murder) of death. Subsequently, we want to find out at what ages these groups then become at risk for natural causes of death e.g Cancer/Heart Failure. 
+That being said, I searched the internet for a record of suicides and found one produced by Conneticut. I imported it into Python and wrote code to sort ethnicity and suicide rate. 
 
-
-CONCLUSION
-From a logical standpoint, if it is found that murder is the leading cause of unnatural death for an ethnicity during a certain age, then great care must be taken in concluding the cause for the murder. 
+I found that the "other" ethnicity group, which includes all races except whites, blacks and hispanics were at most risk. Furthermore, this group was at most risk during age 20 to 24 and 35 to 39.
